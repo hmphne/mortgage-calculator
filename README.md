@@ -1,6 +1,5 @@
 # Getting Started with Create React App
-![mortgage](https://github.com/hmphne/mortgage-calculator/assets/36847007/134dda9e-ec78-4271-85ad-dad4353ad1fb)
-
+![mortgage](https://github.com/hmphne/mortgage-calculator/assets/36847007/cc010480-4832-4f1d-b059-28367a4229a6)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
